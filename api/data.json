@@ -1,0 +1,133 @@
+ [
+    {    "id":"1",
+        "movieName" : "Bahubali1",
+        "rating" : "9.2",
+        "releasedDate" : "23/07/2017"
+    },
+    {
+        "id":"2",
+        "movieName" : "Bahubali2",
+        "rating" : "9.5",
+        "releasedDate" : "12/05/19"
+    },
+    {
+        "id":"3",
+        "movieName" : "Dil Bechara",
+        "rating" : "8.1",
+        "releasedDate" : "08/07/2020"
+    },
+    {
+        "id":"4",
+        "movieName" : "Tanhaji",
+        "rating" : "8",
+        "releasedDate" : "15/03/2020"
+    },
+    {
+        "id":"5",
+        "movieName" : "Thappad",
+        "rating" : "7",
+        "releasedDate" : "08/13/2019"
+    },
+    {
+        "id":"6",
+        "movieName" : "Panga",
+        "rating" : "5",
+        "releasedDate" : "11/08/2020"
+    },
+    {
+        "id":"7",
+        "movieName" : "Malang",
+        "rating" : "6.7",
+        "releasedDate" : "21/04/2020"
+    },
+    {
+        "id":"8",
+        "movieName" : "Bhoot",
+        "rating" : "6.2",
+        "releasedDate" : "12/08/2020"
+    },
+    {
+        "id":"9",
+        "movieName" : "Shimala Mirchi",
+        "rating" : "6.1",
+        "releasedDate" : "11/03/2020"
+    },
+    {
+        "id":"10",
+        "movieName" : "RRR",
+        "rating" : "8.1",
+        "releasedDate" : "12/07/2022"
+    },
+    {
+        "id":"11",
+        "movieName" : "Takhat",
+        "rating" : "6.2",
+        "releasedDate" : "12/06/2019"
+    },
+    {
+        "id":"12",
+        "movieName" : "Indian 2",
+        "rating" : "7",
+        "releasedDate" : "12/08/2020"
+    },
+    {
+        "id":"13",
+        "movieName" : "Bhuj",
+        "rating" : "5",
+        "releasedDate" : "12/09/2021"
+    },
+    {
+        "id":"14",
+        "movieName" : "Attack",
+        "rating" : "6.8",
+        "releasedDate" : "14/02/2022"
+    },
+    {
+        "id":"15",
+        "movieName" : "Bankster",
+        "rating" : "5",
+        "releasedDate" : "12/08/2018"
+    },
+    {
+        "id":"16",
+        "movieName" : "Hacked",
+        "rating" : "4.3",
+        "releasedDate" : "24/08/2020"
+    },
+    {
+        "id":"17",
+        "movieName" : "Baaghi 2",
+        "rating" : "5",
+        "releasedDate" : "12/06/2018"
+    },
+    {
+        "id":"18",
+        "movieName" : "Baaghi 3",
+        "rating" : "4",
+        "releasedDate" : "07/11/2020"
+    },
+    {
+        "id":"19",
+        "movieName" : "Shikara",
+        "rating" : "4.3",
+        "releasedDate" : "13/08/2021"
+    },
+    {
+        "id":"20",
+        "movieName" : "Love Aaj Kal",
+        "rating" : "5.6",
+        "releasedDate" : "12/08/2020"
+    },
+    {
+        "id":"21",
+        "movieName" : "Paani",
+        "rating" : "4.3",
+        "releasedDate" : "12/05/2017"
+    },
+    {
+        "id":"22",
+        "movieName" : "Zahoor",
+        "rating" : "6.2",
+        "releasedDate" : "12/04/2020"
+    }
+]
